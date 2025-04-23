@@ -1,0 +1,3 @@
+Fecha, Temperatura máxima, Temperatura mínimaggr, 34, 34
+
+fewf, 34, 34
